@@ -13,7 +13,7 @@
 
 ### 💻 Hakkımda
 
-Teknoloji, yazılım mimarisi ve modern web teknolojileri üzerine çalışan bir lise Bilişim departmanı öğrencisiyim. Kullanıcı deneyimini ön planda tutan web uygulamaları, ölçeklenebilir altyapılar ve otomasyon sistemleri geliştiriyorum. Sürekli öğrenme ve pratik yapma odaklı bir yaklaşımla projeler üretiyor, geliştirdiğim yazılımları canlı ortama taşıyarak gerçek dünya süreçlerine entegre ediyorum.
+Teknoloji, yazılım mimarisi ve modern web teknolojileri üzerine çalışan bir lise Bilişim alanı öğrencisiyim. Kullanıcı deneyimini ön planda tutan web uygulamaları, ölçeklenebilir altyapılar ve otomasyon sistemleri geliştiriyorum. Sürekli öğrenme ve pratik yapma odaklı bir yaklaşımla projeler üretiyor, geliştirdiğim yazılımları canlı ortama taşıyarak gerçek dünya süreçlerine entegre ediyorum.
 
 ---
 
